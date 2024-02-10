@@ -212,7 +212,7 @@
 }
 
 .carousel-caption .carousel-content a button.carousel-content-btn1 {
-    background: var(--bs-secondary);
+    background: #0e74bc;
     color: var(--bs-dark);
     opacity: 1;
     border: 0;
@@ -229,7 +229,7 @@
 }
 
 .carousel-caption .carousel-content a button.carousel-content-btn2 {
-    background: var(--bs-primary);
+    background:#4eb3e4 ;
     color: var(--bs-white);
     opacity: 1;
     border: 0;
@@ -237,8 +237,8 @@
 }
 
 .carousel-caption .carousel-content a button.carousel-content-btn2:hover {
-    background: var(--bs-secondary);
-    color: var(--bs-dark);
+    background: var(--bs-primary) ;
+      color: #ffffff;
     border: 0;
     opacity: 1;
     transition: 1s;
@@ -422,7 +422,7 @@
 .project-content a {
     display: inline-block;
     padding: 20px 25px;
-    background: var(--bs-primary);
+    background:black;
     border-radius: 10px;
 }
 
@@ -480,7 +480,7 @@
 /*** Team Start ***/
 
 .team-item {
-    border-top: 30px solid var(--bs-secondary) !important;
+    border-top: 30px solid var(#0e74bc) !important;
     background: rgba(239, 239, 241, 0.8);
 }
 
@@ -634,11 +634,11 @@
 }
 
 .contact-map {
-    background: #26d48c;
+    background: #4eb3e4;
 }
 
 .contact-form {
-    background: #26d48c;
+    background: #4eb3e4;
 }
 
 /*** Contact End ***/
@@ -662,5 +662,6 @@
     background: var(--bs-secondary);
     border: 0;
 }
+
 
 /*** Footer End ***/
